@@ -10,7 +10,7 @@
 - 证据只引权威来源：公开研究、官方文件（人社、财政、卫健）、临床指南（USPSTF、国家癌症中心）、经典著作
 - 不站队、不煽动、不灌鸡汤；结论可能过时或有错，决策请独立作出
 
-## 系列八本
+## 系列九本
 
 1. [饮食](https://github.com/kexin1409/how-to-eat-better) — 用最少的钱 / 时间 / 毅力，换回最多的健康
 2. [睡眠](https://github.com/kexin1409/how-to-sleep-better) — 用最少的钱 / 时间 / 毅力，换回最多的好睡眠
@@ -20,6 +20,7 @@
 6. [避坑](https://github.com/kexin1409/how-to-decide-better) — 识破大脑让你亏钱的 20 种方式
 7. [养老](https://github.com/kexin1409/how-to-retire-better) — 算清退休要攒多少、怎么攒、何时退
 8. [体检](https://github.com/kexin1409/how-to-check-better) — 分清哪些检查真能救命、哪些只是花钱买焦虑
+9. [减重](https://github.com/kexin1409/how-to-lose-weight-better) — 分清哪些方法真能掉脂、哪些只是花钱买焦虑
 
 每本都提供**单文件在线阅读页 + PDF 下载**，手机 / 断网可读，可按性价比 / 证据等级 / 风险筛选、全文搜索。
 
